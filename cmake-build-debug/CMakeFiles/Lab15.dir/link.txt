@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Lab15.dir/genericArray/genericArray.c.o CMakeFiles/Lab15.dir/utils/fileUtils.c.o CMakeFiles/Lab15.dir/utils/utils.c.o CMakeFiles/Lab15.dir/words/word.c.o CMakeFiles/Lab15.dir/cscd240Lab15.c.o  -o Lab15 

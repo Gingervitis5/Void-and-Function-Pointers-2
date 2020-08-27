@@ -1,0 +1,126 @@
+Please enter the name of the input file words.txt
+
+Operating - 9
+Systems - 7
+Concepts - 8
+8th - 3
+Edition - 7
+Andy - 4
+Weir - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 4
+
+8th - 3
+Andy - 4
+Concepts - 8
+Edition - 7
+Operating - 9
+Systems - 7
+Weir - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 0
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 6
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 1
+Enter a word: Graham
+
+8th - 3
+Andy - 4
+Concepts - 8
+Edition - 7
+Operating - 9
+Systems - 7
+Weir - 4
+Graham - 6
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index -1
+Please enter an index 10
+Please enter an index 0
+
+Andy - 4
+Concepts - 8
+Edition - 7
+Operating - 9
+Systems - 7
+Weir - 4
+Graham - 6
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 3
+Enter a word: Edition
+
+Andy - 4
+Concepts - 8
+Operating - 9
+Systems - 7
+Weir - 4
+Graham - 6
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 4
+
+Andy - 4
+Concepts - 8
+Graham - 6
+Operating - 9
+Systems - 7
+Weir - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 5
+all done
+==4681== 
+==4681== HEAP SUMMARY:
+==4681==     in use at exit: 0 bytes in 0 blocks
+==4681==   total heap usage: 26 allocs, 26 frees, 7,964 bytes allocated
+==4681== 
+==4681== All heap blocks were freed -- no leaks are possible
+==4681== 
+==4681== For counts of detected and suppressed errors, rerun with: -v
+==4681== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+

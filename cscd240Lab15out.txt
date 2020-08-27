@@ -1,0 +1,202 @@
+Please enter the name of the input file treeoflife.txt
+
+The - 3
+Tree - 4
+Of - 2
+Life - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 0
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 6
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 1
+Enter a word: Is Dying
+
+The - 3
+Tree - 4
+Of - 2
+Life - 4
+Is Dying - 8
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 4
+
+The - 3
+Tree - 4
+Of - 2
+Life - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 1
+Enter a word: Is Alive
+
+The - 3
+Tree - 4
+Of - 2
+Life - 4
+Is Alive - 8
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 3
+Enter a word: Is Dying
+Item Not Found! No Changes
+
+The - 3
+Tree - 4
+Of - 2
+Life - 4
+Is Alive - 8
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 3
+Enter a word: Is Alive
+
+The - 3
+Tree - 4
+Of - 2
+Life - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 4
+
+Life - 4
+Of - 2
+The - 3
+Tree - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 0
+
+Of - 2
+The - 3
+Tree - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 0
+
+The - 3
+Tree - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 0
+
+Tree - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 0
+
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Array length is 0. No changes made
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 3
+Array length is 0, no changes made
+
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 1
+Enter a word: The Tree Of Life Is Alive And Thriving
+
+The Tree Of Life Is Alive And Thriving - 38
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 5
+all done
+==4829== 
+==4829== HEAP SUMMARY:
+==4829==     in use at exit: 0 bytes in 0 blocks
+==4829==   total heap usage: 29 allocs, 29 frees, 7,784 bytes allocated
+==4829== 
+==4829== All heap blocks were freed -- no leaks are possible
+==4829== 
+==4829== For counts of detected and suppressed errors, rerun with: -v
+==4829== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+

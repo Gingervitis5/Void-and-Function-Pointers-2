@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../words/word.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/grahammix/Documents/CSCD240/Lab15/genericArray/genericArray.c
+genericArray.h
+/home/grahammix/Documents/CSCD240/Lab15/genericArray/genericArray.h
+word.h
+/home/grahammix/Documents/CSCD240/Lab15/genericArray/word.h
+../utils/utils.h
+/home/grahammix/Documents/CSCD240/Lab15/utils/utils.h
+
+/home/grahammix/Documents/CSCD240/Lab15/genericArray/genericArray.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/grahammix/Documents/CSCD240/Lab15/utils/utils.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

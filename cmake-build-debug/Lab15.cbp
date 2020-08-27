@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab15"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab15">
+				<Option output="/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Lab15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/grahammix/Documents/CSCD240/Lab15/genericArray"/>
+					<Add directory="/home/grahammix/Documents/CSCD240/Lab15/utils"/>
+					<Add directory="/home/grahammix/Documents/CSCD240/Lab15/words"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab15"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab15/fast">
+				<Option output="/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Lab15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/grahammix/Documents/CSCD240/Lab15/genericArray"/>
+					<Add directory="/home/grahammix/Documents/CSCD240/Lab15/utils"/>
+					<Add directory="/home/grahammix/Documents/CSCD240/Lab15/words"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab15/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/grahammix/Documents/CSCD240/Lab15/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/grahammix/Documents/CSCD240/Lab15/cscd240Lab15.c">
+			<Option target="Lab15"/>
+		</Unit>
+		<Unit filename="/home/grahammix/Documents/CSCD240/Lab15/genericArray/genericArray.c">
+			<Option target="Lab15"/>
+		</Unit>
+		<Unit filename="/home/grahammix/Documents/CSCD240/Lab15/genericArray/genericArray.h">
+			<Option target="Lab15"/>
+		</Unit>
+		<Unit filename="/home/grahammix/Documents/CSCD240/Lab15/utils/fileUtils.c">
+			<Option target="Lab15"/>
+		</Unit>
+		<Unit filename="/home/grahammix/Documents/CSCD240/Lab15/utils/fileUtils.h">
+			<Option target="Lab15"/>
+		</Unit>
+		<Unit filename="/home/grahammix/Documents/CSCD240/Lab15/utils/utils.c">
+			<Option target="Lab15"/>
+		</Unit>
+		<Unit filename="/home/grahammix/Documents/CSCD240/Lab15/utils/utils.h">
+			<Option target="Lab15"/>
+		</Unit>
+		<Unit filename="/home/grahammix/Documents/CSCD240/Lab15/words/word.c">
+			<Option target="Lab15"/>
+		</Unit>
+		<Unit filename="/home/grahammix/Documents/CSCD240/Lab15/words/word.h">
+			<Option target="Lab15"/>
+		</Unit>
+		<Unit filename="/home/grahammix/Documents/CSCD240/Lab15/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

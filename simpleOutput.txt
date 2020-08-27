@@ -1,0 +1,184 @@
+valgrind ./lab15
+==10590== Memcheck, a memory error detector
+==10590== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==10590== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==10590== Command: ./lab15
+==10590== 
+Please enter the name of the input file words.txt
+
+Operating - 9
+Systems - 7
+Concepts - 8
+8th - 3
+Edition - 7
+Andy - 4
+Weir - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 1
+Please enter a word fred
+
+Operating - 9
+Systems - 7
+Concepts - 8
+8th - 3
+Edition - 7
+Andy - 4
+Weir - 4
+fred - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 0
+
+Systems - 7
+Concepts - 8
+8th - 3
+Edition - 7
+Andy - 4
+Weir - 4
+fred - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 3
+Please enter a word fred
+
+Systems - 7
+Concepts - 8
+8th - 3
+Edition - 7
+Andy - 4
+Weir - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 4
+
+8th - 3
+Andy - 4
+Concepts - 8
+Edition - 7
+Systems - 7
+Weir - 4
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 5
+
+8th - 3
+Andy - 4
+Concepts - 8
+Edition - 7
+Systems - 7
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 2
+
+8th - 3
+Andy - 4
+Edition - 7
+Systems - 7
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 0
+
+Andy - 4
+Edition - 7
+Systems - 7
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 0
+
+Edition - 7
+Systems - 7
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 0
+
+Systems - 7
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Please enter an index 0
+
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 2
+Nothing to remove
+
+
+Please choose from the following
+1) Add New Item to the Array
+2) Remove Item by Index
+3) Remove Item by Value
+4) Sort the Array
+5) Quit
+Choice --> 5
+all done
+==10590== 
+==10590== HEAP SUMMARY:
+==10590==     in use at exit: 0 bytes in 0 blocks
+==10590==   total heap usage: 32 allocs, 32 frees, 6,791 bytes allocated
+==10590== 
+==10590== All heap blocks were freed -- no leaks are possible
+==10590== 
+==10590== For counts of detected and suppressed errors, rerun with: -v
+==10590== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
